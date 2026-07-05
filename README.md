@@ -11,7 +11,7 @@ memory — all backed by Cognee's real `remember` / `recall` / `improve` /
 `forget` API.
 
 ## Try it here - Deployed version
-
+https://memory-immune-system-coral.vercel.app/
 
 
 ## What it does
@@ -34,7 +34,7 @@ memory — all backed by Cognee's real `remember` / `recall` / `improve` /
 
 ## Architecture
 
-<img width="1018" height="545" alt="mis_arch" src="https://github.com/user-attachments/assets/0f99c1b9-083b-44fe-a279-50fdfd53b17c" />
+<img width="1018" height="540" alt="mis arch" src="https://github.com/user-attachments/assets/00f6ff95-73ea-4c98-bb00-4057145e32e4" />
 
 
 Cognee owns ingestion, embeddings, the knowledge graph, and retrieval — we
