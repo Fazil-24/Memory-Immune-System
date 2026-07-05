@@ -3,11 +3,11 @@
 An immune system for AI agent memory — built on [Cognee](https://docs.cognee.ai).
 
 AI agents accumulate memory from Slack messages, policy docs, and meeting
-notes — and some of it ends up wrong, outdated, or even deliberately planted.
+notes and some of it ends up wrong, outdated, or even deliberately planted.
 Most memory systems have no idea, and will retrieve the wrong document with
 the same confidence as the right one. This project detects that poisoning,
 quarantines it, repairs the agent's answers, and can permanently forget bad
-memory — all backed by Cognee's real `remember` / `recall` / `improve` /
+memory, all backed by Cognee's real `remember` / `recall` / `improve` /
 `forget` API.
 
 ## Try it here - Deployed version
