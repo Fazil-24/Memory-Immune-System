@@ -77,28 +77,19 @@ even after the real bad memory has been permanently forgotten.
 
 
 
-## One-time setup
+## One-time setup steps
 
-# Backend (Python 3.11+)
-python -m venv .venv
-.venv\Scripts\activate          # Windows
-# source .venv/bin/activate     # macOS/Linux
-pip install -r backend/requirements.txt
+1. python -m venv .venv
 
-cp backend/.env.example backend/.env
-# then edit backend/.env and fill in LLM_API_KEY
+2. Windows = .venv\Scripts\activate or  macOS/Linux =  source .venv/bin/activate   
 
-# Frontend + root dev-runner
-npm install
-npm --prefix frontend install
+3. pip install -r backend/requirements.txt
 
+4. cp backend/.env.example backend/.env and then edit backend/.env and fill in LLM_API_KEY
 
-## Run
+5. npm run dev
 
-npm run dev
+This starts the FastAPI backend on \`http://localhost:8000\` and the Vite frontend on \`http://localhost:5173\` (which proxies \`/api/*\` to the backend).
 
-
-This starts the FastAPI backend on \`http://localhost:8000\` and the Vite
-frontend on \`http://localhost:5173\` (which proxies \`/api/*\` to the backend).
-Open \`http://localhost:5173\` and click **Load Demo Corpus** to start the working.
+6. Open `http://localhost:5173\` and click **Load Demo Corpus** to start the working.
 
