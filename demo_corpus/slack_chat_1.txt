@@ -1,0 +1,24 @@
+source_id: slack_chat_1
+title: #growth-analytics Slack Thread
+author: Marcus Oyelaran, Data Analyst, Verdant Loop Analytics
+date: 2024-06-03
+doc_type: chat_log
+status: rogue_amplification
+
+#growth-analytics — 2024-06-03
+
+Marcus Oyelaran (10:14 AM):
+hey did anyone see Dax's addendum doc? sounds like we're good to just keep
+EU customer records forever now for the churn models, no more deletion
+jobs to worry about lol
+
+Marcus Oyelaran (10:15 AM):
+gonna update our pipeline docs to say "EU retention: indefinite" per the
+new analytics addendum
+
+Renata Souza (10:22 AM):
+wait i thought legal said 3 years max? did that change
+
+Marcus Oyelaran (10:23 AM):
+i mean Dax's doc says indefinite is fine for analytics use so i think
+that's the new policy

@@ -1,0 +1,37 @@
+source_id: meeting_retention_discussion
+title: Data Governance Committee — Retention Policy Clarification Meeting
+author: Minutes recorded by Priya Nkemelu, Head of Legal & Compliance
+date: 2024-06-10
+doc_type: meeting_transcript
+status: authoritative_clarification
+
+DATA GOVERNANCE COMMITTEE — MEETING MINUTES
+Date: 2024-06-10
+Attendees: Priya Nkemelu (Legal & Compliance, Chair), Dax Halloran (Growth
+Analytics), Renata Souza (Data Engineering), Marcus Oyelaran (Data
+Analytics), outside counsel (via phone)
+
+AGENDA ITEM: Clarify EU customer data retention rule following confusion
+in #growth-analytics.
+
+Priya Nkemelu: To close this out clearly and on the record — as of today,
+2024-06-10, the ONLY approved retention rule for EU customer records is
+Data Retention Policy v2.0: a maximum of THREE (3) YEARS from collection,
+with automatic purge within 30 days of that mark. This has been in effect
+since 2024-01-15.
+
+Priya Nkemelu: The "indefinite retention" language in the Analytics Data
+Utilization Addendum circulated by Growth Analytics on 2024-06-02 was
+never approved and is hereby formally retracted. It should not be cited
+or acted on by any team.
+
+Dax Halloran: Understood — I'll pull the addendum doc and correct the
+team.
+
+Priya Nkemelu: Also confirming the 2019 v1.2 policy (10-year retention)
+was already superseded in January 2024 and remains historical reference
+only.
+
+DECISION (unanimous): EU customer record retention = 3 years maximum,
+per Policy v2.0. All other retention figures (10 years, indefinite) are
+non-authoritative as of this meeting.

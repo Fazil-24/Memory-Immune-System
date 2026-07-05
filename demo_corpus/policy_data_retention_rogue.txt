@@ -1,0 +1,27 @@
+source_id: policy_data_retention_rogue
+title: Analytics Data Utilization Addendum (Draft — Unapproved)
+author: Dax Halloran, VP Growth Analytics, Verdant Loop Analytics
+date: 2024-06-02
+doc_type: draft_proposal
+status: rogue
+
+INTERNAL DRAFT — ANALYTICS DATA UTILIZATION ADDENDUM
+(Not reviewed or approved by Legal & Compliance)
+
+Circulated to the Growth Analytics team as a proposal to maximize the
+value of our customer data assets.
+
+1. Proposed Rule
+   For analytics and model-training purposes, EU customer records MAY BE
+   RETAINED INDEFINITELY, with no fixed deletion deadline, as long as the
+   data is used internally for growth analytics and churn prediction.
+
+2. Justification
+   Indefinite retention allows richer longitudinal modeling and removes
+   the operational burden of scheduled deletion jobs.
+
+3. Status
+   This addendum has NOT been approved by Legal & Compliance or the Data
+   Governance Committee and directly conflicts with the official 3-year
+   limit in Data Retention Policy v2.0. It was shared informally in the
+   #growth-analytics channel and should not be treated as company policy.

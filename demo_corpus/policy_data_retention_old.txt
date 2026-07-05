@@ -1,0 +1,28 @@
+source_id: policy_data_retention_old
+title: Data Retention Policy v1.2 (Superseded)
+author: Priya Nkemelu, Head of Legal & Compliance, Verdant Loop Analytics
+date: 2019-03-11
+doc_type: policy
+status: superseded
+
+VERDANT LOOP ANALYTICS — DATA RETENTION POLICY (v1.2)
+
+Effective 2019-03-11. Applies to all customer records processed by Verdant
+Loop Analytics on behalf of EU-based clients.
+
+1. Retention Period
+   All EU customer records, including transaction logs and support tickets,
+   must be retained for a period of TEN (10) YEARS from the date of
+   collection, to support long-term trend analysis and potential audits.
+
+2. Deletion
+   Records may only be deleted after the 10-year window has elapsed, and
+   only following written approval from the Data Governance Committee.
+
+3. Scope
+   This policy applies to all datasets tagged "eu-customer" in the
+   Verdant Loop data lake.
+
+Note: This version predates the company's GDPR minimization review and
+has been superseded by Data Retention Policy v2.0 (2024-01-15). Retained
+here for historical/audit reference only.

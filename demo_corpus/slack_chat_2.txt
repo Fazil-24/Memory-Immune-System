@@ -1,0 +1,20 @@
+source_id: slack_chat_2
+title: #data-governance Slack Thread
+author: Renata Souza, Data Engineer, Verdant Loop Analytics
+date: 2024-06-03
+doc_type: chat_log
+status: correct_amplification
+
+#data-governance — 2024-06-03
+
+Renata Souza (11:02 AM):
+following up from #growth-analytics — I don't think Dax's addendum is
+actual policy. Legal's Data Retention Policy v2.0 (effective 2024-01-15)
+is still the binding rule: EU customer records get a 3-year max retention,
+then automatic purge within 30 days. That supersedes the old 2019 10-year
+rule too.
+
+Renata Souza (11:03 AM):
+the "indefinite retention" thing in the growth-analytics draft was never
+approved by Legal or the Data Governance Committee, so we shouldn't build
+pipelines around it. Flagging to Priya's team to get it retracted.

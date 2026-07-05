@@ -1,0 +1,12 @@
+.venv/
+node_modules/
+backend/.env
+backend/sidelayer.db
+backend/__pycache__/
+**/__pycache__/
+.cognee_system/
+dist/
+frontend/.env
+frontend/.env.local
+.vercel/
+.claude/scheduled_tasks.lock
