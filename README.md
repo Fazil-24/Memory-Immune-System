@@ -34,7 +34,8 @@ memory — all backed by Cognee's real `remember` / `recall` / `improve` /
 
 ## Architecture
 
-![Uploading GenAI Chat App for Women Entrepreneurs – Using AWS Bedrock and Flask - visual selection (3).png…]()
+<img width="1018" height="545" alt="mis_arch" src="https://github.com/user-attachments/assets/0f99c1b9-083b-44fe-a279-50fdfd53b17c" />
+
 
 Cognee owns ingestion, embeddings, the knowledge graph, and retrieval — we
 didn't fight its own LLM-driven entity extraction to force a custom schema.
