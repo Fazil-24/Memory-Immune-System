@@ -10,6 +10,10 @@ quarantines it, repairs the agent's answers, and can permanently forget bad
 memory — all backed by Cognee's real `remember` / `recall` / `improve` /
 `forget` API.
 
+## Try it here - Deployed version
+
+
+
 ## What it does
 
 - **Ingests** a small fictional compliance knowledge base (a company's EU
@@ -30,7 +34,7 @@ memory — all backed by Cognee's real `remember` / `recall` / `improve` /
 
 ## Architecture
 
-
+![Uploading GenAI Chat App for Women Entrepreneurs – Using AWS Bedrock and Flask - visual selection (3).png…]()
 
 Cognee owns ingestion, embeddings, the knowledge graph, and retrieval — we
 didn't fight its own LLM-driven entity extraction to force a custom schema.
@@ -74,7 +78,6 @@ even after the real bad memory has been permanently forgotten.
 
 ## One-time setup
 
-\`\`\`bash
 # Backend (Python 3.11+)
 python -m venv .venv
 .venv\Scripts\activate          # Windows
@@ -87,13 +90,12 @@ cp backend/.env.example backend/.env
 # Frontend + root dev-runner
 npm install
 npm --prefix frontend install
-\`\`\`
+
 
 ## Run
 
-\`\`\`bash
 npm run dev
-\`\`\`
+
 
 This starts the FastAPI backend on \`http://localhost:8000\` and the Vite
 frontend on \`http://localhost:5173\` (which proxies \`/api/*\` to the backend).
